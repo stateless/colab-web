@@ -7,6 +7,7 @@
 * http://demo.themefisher.com/kross/about.html
 * http://demo.themefisher.com/timer-hugo/
 * http://demo.themefisher.com/demos/?theme=phantom
+* https://themes.gohugo.io/hugo-myportfolio-theme/
 * https://github.com/2-REC/hugo-myportfolio-theme/blob/master/README.md
 * https://github.com/digitalcraftsman/hugo-creative-theme
 * https://github.com/BlackrockDigital/startbootstrap-creative
