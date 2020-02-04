@@ -1,7 +1,15 @@
 # colab-web
 
 ## TODO
-[ ] Decide Theme
+[X] Theme
+* https://themes.gohugo.io/theme/hugograyscale/
+* https://github.com/runningstream/hugograyscale/
+* https://blackrockdigital.github.io/startbootstrap-grayscale/#
+* https://blackrockdigital.github.io/startbootstrap-creative/#services
+* https://github.com/runningstream/hugograyscale/
+* https://themes.gohugo.io/hugograyscale/
+
+## Archive
 * https://discourse.gohugo.io/t/using-hugo-theme-for-professional-consulting-web-site/10530
 * https://gethugothemes.com/hugo-portfolio-themes/
 * http://demo.themefisher.com/kross/about.html
